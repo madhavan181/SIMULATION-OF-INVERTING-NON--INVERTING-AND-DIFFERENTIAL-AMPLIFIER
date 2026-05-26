@@ -19,7 +19,7 @@ SOFTWARE REQUIRED:
 
 ## GRAPH: Inverting amplifier: 
 
-<img width="947" height="312" alt="image" src="https://github.com/user-attachments/assets/e830478b-7886-44ab-9174-49dc2b25c291" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c6126616-ec30-4a1f-bfd5-07f2a6f86412" />
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
 
@@ -27,7 +27,7 @@ SOFTWARE REQUIRED:
 
 ## GRAPH: Non inverting amplifier:
 
-<img width="948" height="314" alt="image" src="https://github.com/user-attachments/assets/a1b7ca6f-b1e3-412c-86c5-57f2ca064456" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9bdab6d2-3a18-452f-8562-ebe1ff7fa1f1" />
 
 ## CIRCUIT DIAGRAM: Differential amplifier: 
 
